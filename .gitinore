@@ -1,0 +1,22 @@
+# Windows-specific
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# PowerShell-specific
+*.ps1~
+*.psd1~
+*.psm1~
+*.ps1xml~
+*.pssc~
+*.bak
+*.tmp
+
+# VS Code settings
+.vscode/
+
+# Logs
+*.log
+
+# Environment files
+*.env
